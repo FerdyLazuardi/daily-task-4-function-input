@@ -1,0 +1,12 @@
+function sum(x,y){
+    return x+y
+}
+
+function sum2(x,y){
+    return x+y+x
+}
+
+module.exports = {
+    sum,
+    sum2
+}
